@@ -25,3 +25,34 @@
 .j{
     width: 10%;
 }
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.pg{
+    background-color: #39a900;
+    margin: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    
+}
+
+.list{
+    display: inline-block;
+}
+.list a{
+    color: #0f0707;
+    text-decoration: none;
+    padding: 20px 20px 20px 20px;
+    display: block;
+    border-right: 1px solid #0f0f0f;
+}
+.list a:hover{
+    background-color: #000000;
+    color: #39a900;
+}
+.list a:active{
+    
+    color: red;
+}
